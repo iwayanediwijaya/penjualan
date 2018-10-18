@@ -1,0 +1,62 @@
+E:\i wayan edi wijaya\penjualan ti 15 e\prj_ti15e\prj_ti15e\bin\Debug\prj_ti15e.exe.config
+E:\i wayan edi wijaya\penjualan ti 15 e\prj_ti15e\prj_ti15e\bin\Debug\prj_ti15e.exe
+E:\i wayan edi wijaya\penjualan ti 15 e\prj_ti15e\prj_ti15e\bin\Debug\prj_ti15e.pdb
+E:\i wayan edi wijaya\penjualan ti 15 e\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.csprojResolveAssemblyReference.cache
+E:\i wayan edi wijaya\penjualan ti 15 e\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.Form1.resources
+E:\i wayan edi wijaya\penjualan ti 15 e\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.Properties.Resources.resources
+E:\i wayan edi wijaya\penjualan ti 15 e\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.csproj.GenerateResource.Cache
+E:\i wayan edi wijaya\penjualan ti 15 e\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.exe
+E:\i wayan edi wijaya\penjualan ti 15 e\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.pdb
+E:\i wayan edi wijaya\penjualan ti 15 e\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.frm_barang.resources
+E:\i wayan edi wijaya\prj_ti15e\prj_ti15e\bin\Debug\prj_ti15e.exe.config
+E:\i wayan edi wijaya\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.exe
+E:\i wayan edi wijaya\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.pdb
+E:\i wayan edi wijaya\prj_ti15e\prj_ti15e\bin\Debug\prj_ti15e.exe
+E:\i wayan edi wijaya\prj_ti15e\prj_ti15e\bin\Debug\prj_ti15e.pdb
+E:\i wayan edi wijaya\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.csprojResolveAssemblyReference.cache
+E:\i wayan edi wijaya\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.Form1.resources
+E:\i wayan edi wijaya\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.frm_barang.resources
+E:\i wayan edi wijaya\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.Properties.Resources.resources
+E:\i wayan edi wijaya\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.csproj.GenerateResource.Cache
+E:\i wayan edi wijaya\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\bin\Debug\prj_ti15e.exe.config
+E:\i wayan edi wijaya\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.exe
+E:\i wayan edi wijaya\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.pdb
+E:\i wayan edi wijaya\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\bin\Debug\prj_ti15e.exe
+E:\i wayan edi wijaya\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\bin\Debug\prj_ti15e.pdb
+E:\i wayan edi wijaya\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.Form1.resources
+E:\i wayan edi wijaya\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.frm_barang.resources
+E:\i wayan edi wijaya\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.Properties.Resources.resources
+E:\i wayan edi wijaya\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.csproj.GenerateResource.Cache
+E:\i wayan edi wijaya\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.Frm_pelanggan.resources
+E:\i wayan edi wijaya\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.frm_transaksi.resources
+E:\i wayan edi wijaya\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.frm_cariPelanggan.resources
+E:\i wayan edi wijaya\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.frm_cariBarang.resources
+E:\i wayan edi wijaya\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.frm_login.resources
+E:\i wayan edi wijaya\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.csprojResolveAssemblyReference.cache
+E:\i wayan edi wijaya\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.frmlogout.resources
+E:\i wayan edi wijaya\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.frm_ubahpassword.resources
+E:\i wayan edi wijaya\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.frm_report_barang.resources
+E:\i wayan edi wijaya\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\RdlCompile.cache
+E:\i wayan edi wijaya\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\RdlCompile.compiled
+E:\i wayan edi wijaya\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.frm_report_pelanggan.resources
+E:\i wayan edi wijaya\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.frm_cetakpenjualan.resources
+D:\MATERI KULIAH TEKNOKRAT\DATA MATERI SETIAP SEMESTER\SEMESTER 4\pemrograman basis data\project ti 15 e\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\bin\Debug\prj_ti15e.exe.config
+D:\MATERI KULIAH TEKNOKRAT\DATA MATERI SETIAP SEMESTER\SEMESTER 4\pemrograman basis data\project ti 15 e\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.exe
+D:\MATERI KULIAH TEKNOKRAT\DATA MATERI SETIAP SEMESTER\SEMESTER 4\pemrograman basis data\project ti 15 e\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.pdb
+D:\MATERI KULIAH TEKNOKRAT\DATA MATERI SETIAP SEMESTER\SEMESTER 4\pemrograman basis data\project ti 15 e\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.csprojResolveAssemblyReference.cache
+D:\MATERI KULIAH TEKNOKRAT\DATA MATERI SETIAP SEMESTER\SEMESTER 4\pemrograman basis data\project ti 15 e\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.Form1.resources
+D:\MATERI KULIAH TEKNOKRAT\DATA MATERI SETIAP SEMESTER\SEMESTER 4\pemrograman basis data\project ti 15 e\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.frmlogout.resources
+D:\MATERI KULIAH TEKNOKRAT\DATA MATERI SETIAP SEMESTER\SEMESTER 4\pemrograman basis data\project ti 15 e\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.frm_barang.resources
+D:\MATERI KULIAH TEKNOKRAT\DATA MATERI SETIAP SEMESTER\SEMESTER 4\pemrograman basis data\project ti 15 e\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.frm_cariBarang.resources
+D:\MATERI KULIAH TEKNOKRAT\DATA MATERI SETIAP SEMESTER\SEMESTER 4\pemrograman basis data\project ti 15 e\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.frm_cariPelanggan.resources
+D:\MATERI KULIAH TEKNOKRAT\DATA MATERI SETIAP SEMESTER\SEMESTER 4\pemrograman basis data\project ti 15 e\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.frm_cetakpenjualan.resources
+D:\MATERI KULIAH TEKNOKRAT\DATA MATERI SETIAP SEMESTER\SEMESTER 4\pemrograman basis data\project ti 15 e\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.frm_login.resources
+D:\MATERI KULIAH TEKNOKRAT\DATA MATERI SETIAP SEMESTER\SEMESTER 4\pemrograman basis data\project ti 15 e\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.Frm_pelanggan.resources
+D:\MATERI KULIAH TEKNOKRAT\DATA MATERI SETIAP SEMESTER\SEMESTER 4\pemrograman basis data\project ti 15 e\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.frm_report_barang.resources
+D:\MATERI KULIAH TEKNOKRAT\DATA MATERI SETIAP SEMESTER\SEMESTER 4\pemrograman basis data\project ti 15 e\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.frm_report_pelanggan.resources
+D:\MATERI KULIAH TEKNOKRAT\DATA MATERI SETIAP SEMESTER\SEMESTER 4\pemrograman basis data\project ti 15 e\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.frm_transaksi.resources
+D:\MATERI KULIAH TEKNOKRAT\DATA MATERI SETIAP SEMESTER\SEMESTER 4\pemrograman basis data\project ti 15 e\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.frm_ubahpassword.resources
+D:\MATERI KULIAH TEKNOKRAT\DATA MATERI SETIAP SEMESTER\SEMESTER 4\pemrograman basis data\project ti 15 e\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.Properties.Resources.resources
+D:\MATERI KULIAH TEKNOKRAT\DATA MATERI SETIAP SEMESTER\SEMESTER 4\pemrograman basis data\project ti 15 e\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\prj_ti15e.csproj.GenerateResource.Cache
+D:\MATERI KULIAH TEKNOKRAT\DATA MATERI SETIAP SEMESTER\SEMESTER 4\pemrograman basis data\project ti 15 e\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\RdlCompile.cache
+D:\MATERI KULIAH TEKNOKRAT\DATA MATERI SETIAP SEMESTER\SEMESTER 4\pemrograman basis data\project ti 15 e\penjualan ti 15 e\program\prj_ti15e\prj_ti15e\obj\Debug\RdlCompile.compiled
